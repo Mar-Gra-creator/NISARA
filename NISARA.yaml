@@ -1,0 +1,13 @@
+name: myenv
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+dependencies:
+  - conda-forge::biopython
+  - bioconda::tmalign
+  - anaconda::pandas
+  - anaconda::numpy
+  - conda-forge::multiprocess
+  - conda-forge::tqdm
+
