@@ -13,7 +13,7 @@ NISARA is a simple Python-based script for clustering structures. Instead of all
 
 2. Copy repo (extract input) into the desired working-directory.
 
-3. Create a new conda environment using the ‘NISARA_v1.0.yml’ file (located in the root directory of NISARA) using the following command:
+3. Create a new conda environment using the `NISARA_v1.0.yml` file (located in the root directory of NISARA) using the following command:
 
    **On Linux:** `conda env create -f NISARA_v1.0.yaml`.
 
@@ -21,7 +21,7 @@ NISARA is a simple Python-based script for clustering structures. Instead of all
 
 5. Run `python NISARA_v1.0.py` to display description.
 
-6. Simple run: 'python NISARA_v1.0.py nucleases 0.4 0.7 2 8'
+6. Simple run: `python NISARA_v1.0.py nucleases 0.4 0.7 2 8`
 
 ## Tutorial
 
