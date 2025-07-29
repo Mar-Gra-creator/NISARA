@@ -5,7 +5,7 @@ NISARA is a simple Python-based script for clustering structures. Instead of all
 
 ## Installation
 
-**Requirements:** Anaconda installed on the target computer. An version of Anaconda can be downloaded from: https://www.anaconda.com/.
+**Requirements:** Anaconda installed on the computer. Anaconda can be downloaded from: https://www.anaconda.com/.
 
 ### From source using conda:
 
@@ -18,12 +18,12 @@ NISARA is a simple Python-based script for clustering structures. Instead of all
 
 3. Activate the newly created environment: `conda activate NISARA_v1.0`.
 
-4. Run `python NISARA_v1.0.py` to display description.
+4. Run `python NISARA_v1.0d.py` to display description.
 
-5. Simple run: `python NISARA_v1.0.py nucleases 0.4 0.7 2 8`
+5. Simple run: `python NISARA_v1.0d.py nucleases 0.4 0.7 2 8`
 
 ## Tutorial
 
 A detailed tutorial is found here: ...
-
+Will be soon!
 
