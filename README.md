@@ -20,7 +20,7 @@ NISARA is a simple Python-based script for clustering structures. Instead of all
 
 4. Run `python NISARA_v1.0d.py` to display description.
 
-5. Simple run: `python NISARA_v1.0d.py nucleases 0.4 0.7 2 8`
+5. Simple run: `python NISARA_v1.0d.py arts 0.4 0.7 2 8`
 
 ## Tutorial
 
