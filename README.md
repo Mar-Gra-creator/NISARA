@@ -1,5 +1,5 @@
 # NISARA
-## Network Analysis of Structure Similarity Alignment V1.0d
+## Network Analysis of Structure Similarity Alignment V1.0e
 
 NISARA is a simple Python-based script for clustering structures. Instead of all-vs-all BLAST (E-value) comparisons, NISARA uses all-vs-all TM-align comparisons (TM-score). NISARA produces a CLANS file which can be visualized in the CLANS program.
 
@@ -18,9 +18,9 @@ NISARA is a simple Python-based script for clustering structures. Instead of all
 
 3. Activate the newly created environment: `conda activate NISARA_v1.0`.
 
-4. Run `python NISARA_v1.0d.py` to display description.
+4. Run `python NISARA_v1.0e.py` to display description.
 
-5. Simple run: `python NISARA_v1.0d.py arts 0.4 0.7 2 8`
+5. Simple run: `python NISARA_v1.0e.py arts 0.4 0.7 2 8`
 
 ## Tutorial
 
