@@ -3,6 +3,10 @@
 
 NISARA is a simple Python-based script for clustering structures. Instead of all-vs-all BLAST (E-value) comparisons, NISARA uses all-vs-all TM-align comparisons (TM-score). NISARA produces a CLANS file which can be visualized in the CLANS program.
 
+If you use this repository, please cite:
+
+BMC Genomics (2025) — doi:10.1186/s12864-025-11994-z
+
 ## Installation
 
 **Requirements:** Anaconda installed on the computer. Anaconda can be downloaded from: https://www.anaconda.com/.
