@@ -11,8 +11,7 @@ BMC Genomics (2025) — doi:10.1186/s12864-025-11994-z
 
 **Requirements:** Anaconda installed on the computer. Anaconda can be downloaded from: https://www.anaconda.com/.
 
-### From source using conda:
-
+### From source using conda
 
 1. Copy repo (extract input) into the desired working-directory.
 
@@ -20,7 +19,12 @@ BMC Genomics (2025) — doi:10.1186/s12864-025-11994-z
 
    **On Linux:** `conda env create -f NISARA_v1.0.yaml`.
 
-3. Activate the newly created environment: `conda activate NISARA_v1.0`.
+3. Activate the newly created environment: `conda activate NISARA`.
+
+	check TMalign version!!! 
+	`conda list | grep -i tmalign`
+	this build works with version 20220227
+
 
 4. Run `python NISARA_v1.0e.py` to display description.
 
